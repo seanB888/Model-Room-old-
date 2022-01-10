@@ -18,3 +18,17 @@ You can copy the link below and added it to '**Package Dependencies**', or go to
 https://github.com/maxxfrazer/FocusEntity.git
 ```
 I used the latest version of this code *-v 2.2.4*
+
+## About 3D Objects
+When choosing a 3D object, Swift works with .usdz file format. Try and also choose PBR (Physically-Based Rendering) format, these objects have a more realistic look to them.
+
+### The 3D assets should meet these requirements if possible
+- USDZ Format
+- PBR Materials/Textures
+- PBR Metal/Roughness Workflow
+
+### View the 3D Assets
+- Finder
+- Xcode 3D Assets Viewer (built in xcode)
+- Reality Converter
+- PhotoShop
