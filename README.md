@@ -1,5 +1,6 @@
 # Model Room App
 ### This is an AR Project using RealityKit.
+Followed course from [Reality School](https://www.youtube.com/watch?v=iuzqdw8gfzQ&list=PLBv1NzmBcY51F-pdOIywpndccaB21NTid&index=1) on youtube.
 
 ### The hardware that was used to create this app:
 ## Devices
