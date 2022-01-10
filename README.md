@@ -31,4 +31,4 @@ When choosing a 3D object, Swift works with .usdz file format. Try and also choo
 - Finder
 - Xcode 3D Assets Viewer (built in xcode)
 - Reality Converter
-- PhotoShop
+- PhotoShop (to remove background and create .PNG thumbnails)
